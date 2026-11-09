@@ -1,0 +1,21 @@
+# OS & IDE Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime Logs & Processed Telemetry
+processed_logs/
+zeek_logs/
+logs/
+*.json
+*.log
+
+# Docker & Volume Mount Data
+.env
+volumes/
+tmp/
+
+# Kali Restore Files
+*.restore
